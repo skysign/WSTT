@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace8900e-c05f-44e3-94b3-da59454a3537" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\work_git\WSTT\LeetCode\70. Climbing Stairs\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3kve4qr4R5GbD6qsX1lbrC1RA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="70. Climbing Stairs" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace8900e-c05f-44e3-94b3-da59454a3537" name="Default Changelist" comment="" />
+      <created>1576489397612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576489397612</updated>
+    </task>
+    <task id="LOCAL-00001" summary="70. Climbing Stairs / LeetCode">
+      <created>1576489713136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576489713136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="70. Climbing Stairs / LeetCode">
+      <created>1576489736704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576489736704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="70. Climbing Stairs / LeetCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="70. Climbing Stairs / LeetCode" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1545" y="317" key="CommitChangelistDialog2" timestamp="1576489729652">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state x="1545" y="317" key="CommitChangelistDialog2/65.0.2495.1440@65.0.2495.1440" timestamp="1576489729652" />
+    <state x="1530" y="453" key="Vcs.Push.Dialog.v2" timestamp="1576489739190">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state x="1530" y="453" key="Vcs.Push.Dialog.v2/65.0.2495.1440@65.0.2495.1440" timestamp="1576489739190" />
+    <state x="1629" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1577004045813">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1629" y="544" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577004045813" />
+  </component>
+</project>

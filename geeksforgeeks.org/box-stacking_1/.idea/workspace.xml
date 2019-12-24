@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7668dce-e840-4f13-92f2-23e932977321" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\work_git\WSTT\geeksforgeeks.org\box-stacking_1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNHo8SZZ0uEuHiGcj9crfSuEnn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Geeks" />
+      <module name="box-stacking_1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7668dce-e840-4f13-92f2-23e932977321" name="Default Changelist" comment="" />
+      <created>1577086804075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577086804075</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Box Stacking / geeksforgeeks.org&#10;&#10;https://practice.geeksforgeeks.org/problems/box-stacking/1">
+      <created>1577086974559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577086974559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update : Box Stacking / geeksforgeeks.org&#10;&#10;https://practice.geeksforgeeks.org/problems/box-stacking/1">
+      <created>1577087344594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577087344594</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Box Stacking / geeksforgeeks.org&#10;&#10;https://practice.geeksforgeeks.org/problems/box-stacking/1" />
+    <MESSAGE value="Update : Box Stacking / geeksforgeeks.org&#10;&#10;https://practice.geeksforgeeks.org/problems/box-stacking/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update : Box Stacking / geeksforgeeks.org&#10;&#10;https://practice.geeksforgeeks.org/problems/box-stacking/1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="313" key="CommitChangelistDialog2" timestamp="1577087339941">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="262" y="313" key="CommitChangelistDialog2/0.0.2560.1440/3840.0.2560.1440/-3840.0.2560.1440@0.0.2560.1440" timestamp="1577087339941" />
+    <state width="1236" height="505" key="GridCell.Tab.0.bottom" timestamp="1577103634740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.0.bottom/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634740" />
+    <state width="1236" height="505" key="GridCell.Tab.0.center" timestamp="1577103634740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.0.center/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634740" />
+    <state width="1236" height="505" key="GridCell.Tab.0.left" timestamp="1577103634740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.0.left/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634740" />
+    <state width="1236" height="505" key="GridCell.Tab.0.right" timestamp="1577103634740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.0.right/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634740" />
+    <state width="1236" height="505" key="GridCell.Tab.1.bottom" timestamp="1577103634741">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.1.bottom/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634741" />
+    <state width="1236" height="505" key="GridCell.Tab.1.center" timestamp="1577103634740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.1.center/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634740" />
+    <state width="1236" height="505" key="GridCell.Tab.1.left" timestamp="1577103634740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.1.left/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634740" />
+    <state width="1236" height="505" key="GridCell.Tab.1.right" timestamp="1577103634741">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="505" key="GridCell.Tab.1.right/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577103634741" />
+    <state x="240" y="453" key="Vcs.Push.Dialog.v2" timestamp="1577087350253">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="240" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/3840.0.2560.1440/-3840.0.2560.1440@0.0.2560.1440" timestamp="1577087350253" />
+    <state x="339" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1577143410547">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="339" y="544" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-3840.0.2560.1440/3840.0.2560.1440@0.0.2560.1440" timestamp="1577101551717" />
+    <state x="339" y="544" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/3840.0.2560.1440/-3840.0.2560.1440@0.0.2560.1440" timestamp="1577143410547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Geeks.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

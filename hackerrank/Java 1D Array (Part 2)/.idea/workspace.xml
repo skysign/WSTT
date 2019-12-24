@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d49b48-b2a4-4bb0-ba88-f2ad05a7d06a" name="Default Changelist" comment="Java 1D Array (Part 2) / hackerrank">
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Arraylist/Java Arraylist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/MC_CoinCombination.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DynamicProgramming_MIT_OpenCourseWare/MC_CoinCombination/MC_CoinCombination.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PBG/src/com/tistory/skysign/topcoder/PBG/PBG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PBG/src/com/tistory/skysign/topcoder/PBG/PBG.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\work_git\WSTT\hackerrank\Java 1D Array (Part 2)\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmReZi3YBiLYad8tFDSa844Bfv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <output_file path="input04_result.txt" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="com.tistory.skysign.hackerrank.Java_1D_Array_Part_2.Main" />
+      <module name="Java 1D Array (Part 2)" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/test/input04.txt" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d49b48-b2a4-4bb0-ba88-f2ad05a7d06a" name="Default Changelist" comment="" />
+      <created>1575959879510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575959879510</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Java 1D Array (Part 2) / hackerrank">
+      <created>1575968012702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968012702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java 1D Array (Part 2) / hackerrank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java 1D Array (Part 2) / hackerrank" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2654" y="378" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575966180560">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state x="2654" y="378" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575966180560" />
+    <state x="2792" y="316" key="CommitChangelistDialog2" timestamp="1575968020180">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state x="2792" y="316" key="CommitChangelistDialog2/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575968020180" />
+    <state x="2980" y="478" key="FileChooserDialogImpl" timestamp="1575965831744">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state x="2980" y="478" key="FileChooserDialogImpl/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575965831744" />
+    <state width="1234" height="413" key="GridCell.Tab.0.bottom" timestamp="1575969204892">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.0.bottom/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960133950" />
+    <state width="1234" height="413" key="GridCell.Tab.0.bottom/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204892" />
+    <state width="1234" height="413" key="GridCell.Tab.0.center" timestamp="1575969204892">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.0.center/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960133950" />
+    <state width="1234" height="413" key="GridCell.Tab.0.center/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204892" />
+    <state width="1234" height="413" key="GridCell.Tab.0.left" timestamp="1575969204891">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.0.left/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960133949" />
+    <state width="1234" height="413" key="GridCell.Tab.0.left/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204891" />
+    <state width="1234" height="413" key="GridCell.Tab.0.right" timestamp="1575969204892">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.0.right/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960133950" />
+    <state width="1234" height="413" key="GridCell.Tab.0.right/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204892" />
+    <state width="1234" height="507" key="GridCell.Tab.1.bottom" timestamp="1575969204889">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.1.bottom/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960127716" />
+    <state width="1234" height="507" key="GridCell.Tab.1.bottom/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204889" />
+    <state width="1234" height="507" key="GridCell.Tab.1.center" timestamp="1575969204889">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.1.center/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960127716" />
+    <state width="1234" height="507" key="GridCell.Tab.1.center/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204889" />
+    <state width="1234" height="507" key="GridCell.Tab.1.left" timestamp="1575969204889">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.1.left/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960127715" />
+    <state width="1234" height="507" key="GridCell.Tab.1.left/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204889" />
+    <state width="1234" height="507" key="GridCell.Tab.1.right" timestamp="1575969204889">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state width="2443" height="507" key="GridCell.Tab.1.right/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575960127716" />
+    <state width="1234" height="507" key="GridCell.Tab.1.right/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969204889" />
+    <state x="2792" y="456" key="Vcs.Push.Dialog.v2" timestamp="1575968026675">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state x="2792" y="456" key="Vcs.Push.Dialog.v2/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575968026675" />
+    <state x="2899" y="543" key="com.intellij.ide.util.TipDialog" timestamp="1576049160350">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state x="2899" y="543" key="com.intellij.ide.util.TipDialog/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1576049160350" />
+    <state x="2936" y="514" key="git4idea.merge.GitPullDialog" timestamp="1575969125232">
+      <screen x="2560" y="0" width="2486" height="1440" />
+    </state>
+    <state x="2936" y="514" key="git4idea.merge.GitPullDialog/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@2560.0.2486.1440" timestamp="1575969125232" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tistory/skysign/hackerrank/Java_1D_Array_Part_2/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

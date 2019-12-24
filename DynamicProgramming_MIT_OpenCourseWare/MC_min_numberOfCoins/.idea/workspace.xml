@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fc1214a-d3ea-4836-9267-ad60728520f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MC_min_numberOfCoins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tistory/skysign/MITOpenCourseWare/R5_Dynamic_Programming/MC_min_numberOfCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MN11_/MN11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/MNfrom11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MNfrom11/src/com/tistory/skysign/MITOpenCourseWare/R5_Dynamic_Programming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/MakeChange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChange/src/com/tistory/skysign/MITOpenCourseWare/R5_Dynamic_Programming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/MakeChanges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeChanges/out/production/MakeChanges/com/tistory/skysign/MITOpenCourseWare/R5_Dynamic_Programming/MakeChanges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PBG/src/com/tistory/skysign/topcoder/PBG/PBG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PBG/src/com/tistory/skysign/topcoder/PBG/PBG.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\work_git\WSTT\MC_min_numberOfCoins\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVUgz2TbaGjWuMeAJct4b8oVE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.tistory.skysign.MITOpenCourseWare.R5_Dynamic_Programming.MC_min_numberOfCoins" />
+      <module name="MC_min_numberOfCoins" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc1214a-d3ea-4836-9267-ad60728520f9" name="Default Changelist" comment="" />
+      <created>1575441370775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575441370775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1197" height="413" key="GridCell.Tab.0.bottom" timestamp="1575445873657">
+      <screen x="0" y="0" width="2486" height="1440" />
+    </state>
+    <state width="1197" height="413" key="GridCell.Tab.0.bottom/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575445873657" />
+    <state width="1197" height="413" key="GridCell.Tab.0.center" timestamp="1575445873656">
+      <screen x="0" y="0" width="2486" height="1440" />
+    </state>
+    <state width="1197" height="413" key="GridCell.Tab.0.center/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575445873656" />
+    <state width="1197" height="413" key="GridCell.Tab.0.left" timestamp="1575445873656">
+      <screen x="0" y="0" width="2486" height="1440" />
+    </state>
+    <state width="1197" height="413" key="GridCell.Tab.0.left/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575445873656" />
+    <state width="1197" height="413" key="GridCell.Tab.0.right" timestamp="1575445873656">
+      <screen x="0" y="0" width="2486" height="1440" />
+    </state>
+    <state width="1197" height="413" key="GridCell.Tab.0.right/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575445873656" />
+    <state x="1669" y="640" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575443578594">
+      <screen x="0" y="0" width="2486" height="1440" />
+    </state>
+    <state x="1669" y="640" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.0.2486.1440/0.0.2486.1440/-1920.577.1920.1080@0.0.2486.1440" timestamp="1575443578594" />
+  </component>
+</project>
